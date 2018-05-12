@@ -1,0 +1,39 @@
+_repo: Saudades--hist-ria-de-menina-e-mo-a_27725
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ribeiro, Bernardim
+    birthdate: 1482
+    deathdate: 1552
+    gutenberg_agent_id: '32867'
+    url: http://www.gutenberg.org/2009/agents/32867
+  editor:
+    agent_name: Guimarães, Delfim de Brito
+    aliases:
+    - De Brito Guimarães, Delfim
+    - Brito Guimarães, Delfim de
+    - Guimaraes, Delfim
+    - Guimarães, Delfim de Brito Monteiro
+    - Brito Monteiro Guimarães, Delfim de
+    birthdate: 1872
+    deathdate: 1933
+    gutenberg_agent_id: '31367'
+    url: http://www.gutenberg.org/2009/agents/31367
+description: ''
+gutenberg_bookshelf: PT Romance
+gutenberg_issued: '2009-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27725'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction'
+- !lcc 'PQ'
+title: 'Saudades: história de menina e moça'
+url: http://www.gutenberg.org/ebooks/27725
