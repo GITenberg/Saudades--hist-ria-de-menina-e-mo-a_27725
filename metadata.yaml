@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '31367'
     url: http://www.gutenberg.org/2009/agents/31367
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27725#Saudades--hist-ria-de-menina-e-mo-a
 gutenberg_bookshelf: PT Romance
 gutenberg_issued: '2009-01-06'
 gutenberg_type: Text
